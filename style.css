@@ -1,0 +1,77 @@
+
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+.navbar {
+    background-color: #fff;
+   
+
+}
+
+.navbar-brand {
+    color: #6c3c1c  !important;
+   font-weight: 700;
+    font-size: 2.5rem !important;
+}
+
+.navbar-nav li {
+    padding: 0 10px;
+
+}
+
+
+.navbar-nav li a {
+    color: #6c3c1c  !important;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+a.nav-link{
+    font-size: 1.6rem;
+}
+
+p{
+  font-size: 1.8rem;
+  text-align: justify;
+  padding: 0 10px;
+}
+h1{
+  text-align: justify;
+
+  padding: 0 10px;
+}
+
+.header{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.sobremi-h1{
+  color: #c4541c ;
+
+}
+.content{
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.content-h1{
+  color: #c4541c;
+
+}
+.content-p{
+  margin-bottom: 100px;
+}
+.nicole-canto{
+  color: #ac7c34 ;
+}
+.swiper {
+  width: 500px;
+  height: 300px;
+}
